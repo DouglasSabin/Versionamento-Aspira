@@ -7,7 +7,11 @@ até 1.045,00 30%
 2.600,01 a 3.550,00 15%
 Acima de 3.550,00 10% */
 
+<<<<<<< HEAD
 //mais um comentario aleatorio
+=======
+//testando pela segunda vez
+>>>>>>> bhanch-novo
 
 var salario = 1100.50;
 

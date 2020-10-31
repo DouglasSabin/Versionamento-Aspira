@@ -2,6 +2,7 @@ const MEDIA = 70;
 const AULAS = 80;
 const LIMITE_FALTAS = 25;
 //testando a branch-novo
+//testando pela segunda vez
 
 let nome = "Mauro Duarte";
 let nota1 = 65;
