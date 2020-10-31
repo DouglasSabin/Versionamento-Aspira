@@ -7,6 +7,8 @@ até 1.045,00 30%
 2.600,01 a 3.550,00 15%
 Acima de 3.550,00 10% */
 
+//mais um comentario aleatorio
+
 var salario = 1100.50;
 
 if (salario<=1045.01) {
