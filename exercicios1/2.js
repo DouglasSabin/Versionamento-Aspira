@@ -3,7 +3,7 @@ da compra for menor que R$ 50,00; caso contrário, o lucro será de 30%. Desenvo
 uma aplicação em JavaScript que leia o valor do produto e imprima o valor de venda
 para o produto.
 */
-//testando pela segunda vez
+//testando pela segunda vezz
 
 var produto = 40.00;
 
